@@ -88,7 +88,8 @@ You can always ask in **#Bot-support on the server**, and maybe someone will hel
 
 ## Join the official Support server
 
-![Join the Official Support Server](https://discordapp.com/api/guilds/396117030375522307/widget.png?style=banner1)
+<p><a href="http://www.discord.gg/kJP8m9W"><img src="https://discordapp.com/api/guilds/396117030375522307/widget.png?style=banner2" alt="" width="342" height="81" /></a>
+</p>
 
 ## Discord Bots List Widgets
 They recently renamed themselves to [top.gg](https://top.gg/), but I still refer to them as DBL.
