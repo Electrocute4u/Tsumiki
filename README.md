@@ -40,8 +40,7 @@ Tsumiki is a Discord bot that is running on **Discord.js Library** and was devel
 The bot features various commands, such as Action commands, Utilities, Fun commands, Predictions and more! \
 Most of my commands don't tend to be the main focus on other bots, so I've decided to re-create them in my own way.\
 But with the main focus on the design and the functionality, as well as giving it a purpose to be used frequently. \
-Commands such as Action commands (Hug, kiss, nuzzle etc) often tends to be static and only contain one reponse, and don't have multiple lines for multiple mentions or for single mentions or no mention at all, but my bot has. \
-So that is what makes my bot stand out from others, I want people to be able to enjoy these commands too.
+Commands such as Action commands (Hug, kiss, nuzzle etc) often tends to be static and only contain one line or a static response, even if you have multiple mentions, and things like that is what I want to focus on changing for my bot.
 
 ## Who is Tsumiki?
 [Tsumiki Miniwa](https://acchikocchi.fandom.com/wiki/Tsumiki_Miniwa) is a Anime character from [Acchi Kocchi (Place to Place)](https://myanimelist.net/anime/12291/Acchi_Kocchi_TV).
