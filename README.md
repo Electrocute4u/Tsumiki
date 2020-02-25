@@ -57,10 +57,13 @@ As of now, you are able to search for members in your own Guild with:
 - Descrim Numbers (Example: #1234 or 1234)
 - ID (Example: 209972381622468604, some Commands also allows Global Discord IDs!)
 - Mention (@Username)
+
 **Planned Upgrades to the Mention System:**
 - Role ID/Name (Example @RoleName or RoleName)
-This will only be implemented on some Commands, most likely on Action Commands) 
+
+This will only be implemented on some Commands, most likely on Action Commands.
 - Mutual User Search (Example: Username#1234 or Username)
+
 Search for Users Across Servers and use them as Mentions.
 This will only be for Users who shares a Guild Tsumiki is in.
 
