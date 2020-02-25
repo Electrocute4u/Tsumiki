@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/badge/uptime-24%2F7-informational">
 <img src="https://img.shields.io/badge/library-Discord.js-B2A7E5">
 <img src="https://img.shields.io/badge/docs-passing-brightgreen">
-<img src="https://img.shields.io/badge/-javascript-yellow">
+<img src="https://img.shields.io/badge/-JavaScript-yellow">
 <img src="https://img.shields.io/badge/status-active-green">
 </p>
 
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/version-1.4.4-blue">
 <img src="https://img.shields.io/badge/release%20date-june%202019-red">
 <img src="https://img.shields.io/badge/commit%20activity-37%2Fmonth-informational">
-<img src="https://img.shields.io/badge/repo%20size-778%20KB-informational">
+<img src="https://img.shields.io/badge/repo%20size-2%20MB-informational">
 <img src="https://img.shields.io/badge/code%20repo-private-critical">
 </p>
 <p align="center"><a href="https://top.gg/bot/560893917839622158" target="_blank" rel="noopener">DBL Website</a> &bull; <a href="https://twitter.com/Electrocute4u" target="_blank" rel="noopener">My personal Twitter</a> &bull; <a href="https://github.com/Electrocute4u" target="_blank" rel="noopener">My Github</a> &bull; <a href="https://top.gg/servers/396117030375522307/join" target="_blank" rel="noopener">Discord Server</a> &bull; <a href="https://discord.bots.gg/bots/560893917839622158" target="_blank" rel="noopener">Discord.bots Website</a></p>
@@ -24,7 +24,9 @@
 <summary>"Click to expand"</summary>
  
 - [About the bot](#tsumiki)
-- [Who is tsumiki?](#who-is-tsumiki)
+- [Who is tsumiki?](#main-focus)
+- [Tsumiki's Mention System](#mention-system)
+- [Who Tsumiki is based on](#which-anime-character-is-tsumiki-based-on)
 - [Useful links](#useful-links)
 - [Submit a bot feature](#want-to-submit-a-bot-feature)
 - [Bugs & Problems](#found-a-bug-or-having-problems-with-my-bot)
@@ -36,13 +38,33 @@
 </details>
 
 # Tsumiki
-Tsumiki is a Discord bot that is running on **Discord.js Library** and was developed using **Javascript** programming language. \
+Tsumiki is a Discord bot that is running on **Discord.js Library** and was developed using **JavaScript** programming language. \
 The bot features various commands, such as Action commands, Utilities, Fun commands, Predictions and more! \
 Most of my commands don't tend to be the main focus on other bots, so I've decided to re-create them in my own way.\
 But with the main focus on the design and the functionality, as well as giving it a purpose to be used frequently. \
 Commands such as Action commands (Hug, kiss, nuzzle etc) often tends to be static and only contain one line or a static response, even if you have multiple mentions, and things like that is what I want to focus on changing for my bot.
 
-## Who is Tsumiki?
+## Main Focus:
+The main focus is to develop the best "Anime focused" Action bot on the Bot market.
+This means that the Mention System has to be top notch and have Advanced Searching.
+
+## Mention System
+Tsumiki has a very Advanced and Powerful Mention System.
+It continues to grow even more Advanced over time.
+As of now, you are able to search for members in your own Guild with:
+- Nickname (Example: ThisisAnNicknamedUser)
+- Username (Example: Username#1234 or Username)
+- Descrim Numbers (Example: #1234 or 1234)
+- ID (Example: 209972381622468604, some Commands also allows Global Discord IDs!)
+- Mention (@Username)
+**Planned Upgrades to the Mention System:**
+- Role ID/Name (Example @RoleName or RoleName)
+This will only be implemented on some Commands, most likely on Action Commands) 
+- Mutual User Search (Example: Username#1234 or Username)
+Search for Users Across Servers and use them as Mentions.
+This will only be for Users who shares a Guild Tsumiki is in.
+
+## Which Anime Character is Tsumiki based on?
 [Tsumiki Miniwa](https://acchikocchi.fandom.com/wiki/Tsumiki_Miniwa) is a Anime character from [Acchi Kocchi (Place to Place)](https://myanimelist.net/anime/12291/Acchi_Kocchi_TV).
 
 Since the most kawaii theme right now is Anime related Discord bots, I decided to choose Tsumiki as mine.
