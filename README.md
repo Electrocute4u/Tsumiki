@@ -40,14 +40,14 @@
 # Tsumiki
 Tsumiki is a Discord bot that is running on **Discord.js Library** and was developed using **JavaScript** programming language. \
 The bot features various Commands, such as Action Commands, Utilities, Fun Commands, Predictions and more! \
-Most of Tsumiki's Commands don't tend to be the main focus on other bots, so I've decided to re-create them in my own way.\
+Tsumiki's Commands should feel like they want to be used over and over again, because of it's quality and layout. \
 But with the main focus on the design and the functionality, as well as Paginating some of them wherever it fits. \
 Commands such as Action Commands (Hug, kiss, nuzzle etc) often tends to be static and only contain one line or a static response, even if you have multiple mentions, and things like that is what I want to focus on changing for my bot.
 
 ## Main Focus:
 The main focus is to develop the best "Anime focused" Action bot on the Bot market. \
 A great Action Bot requires an Advanced Mention System. Shoud not include static text outcomes on Mentions.\
-And having a great variety of GIFs/Images per Action Command is a must. \
+And having a great variety of GIFs/Images per Action Command is a must.
 
 **Tsumiki currently has:**
 - Advanced Mention System
