@@ -56,9 +56,9 @@ And having a great variety of GIFs/Images per Action Command is a must.
 - No less then 5 GIFs/Images per Action Command. (Aiming to have over 100 GIFs/Images on all!)
 
 ## Mention System
-Tsumiki has a very Advanced and Powerful Mention System.
-It continues to grow even more Advanced over time.
-As of now, you are able to search for members in your own Guild with:
+Tsumiki has a very Advanced and Powerful Mention System. \
+It continues to grow even more Advanced over time. \
+**As of now, you are able to search for members in your own Guild with:**
 - Nickname (Example: ThisisAnNicknamedUser)
 - Username (Example: Username#1234 or Username)
 - Descrim Numbers (Example: #1234 or 1234)
