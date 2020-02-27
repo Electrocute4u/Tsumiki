@@ -46,7 +46,13 @@ Commands such as Action commands (Hug, kiss, nuzzle etc) often tends to be stati
 
 ## Main Focus:
 The main focus is to develop the best "Anime focused" Action bot on the Bot market.
-This means that the Mention System has to be top notch and have Advanced Searching.
+A great Action Bot requires an Advanced Mention System. Shoud not include static text outcomes on Mentions. And having a great variety of GIFs per Action Command is a must.
+
+**Tsumiki current has:**
+- Advanced Mention System
+- Handpicked GIFs and Images
+- No static text outcomes (a few lines are rarer to come by then others!)
+- No less then 5 GIFs/Images per Action Command. (Aiming to have over 100 GIFs/Images on all!)
 
 ## Mention System
 Tsumiki has a very Advanced and Powerful Mention System.
