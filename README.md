@@ -9,10 +9,8 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/version-1.4.4-blue">
 <img src="https://img.shields.io/badge/release%20date-june%202019-red">
-<img src="https://img.shields.io/badge/commit%20activity-37%2Fmonth-informational">
-<img src="https://img.shields.io/badge/repo%20size-2%20MB-informational">
+ <img src="https://img.shields.io/badge/version-1.4.4-blue">
 <img src="https://img.shields.io/badge/code%20repo-private-critical">
 </p>
 <p align="center"><a href="https://top.gg/bot/560893917839622158" target="_blank" rel="noopener">DBL Website</a> &bull; <a href="https://twitter.com/Electrocute4u" target="_blank" rel="noopener">My personal Twitter</a> &bull; <a href="https://github.com/Electrocute4u" target="_blank" rel="noopener">My Github</a> &bull; <a href="https://top.gg/servers/396117030375522307/join" target="_blank" rel="noopener">Discord Server</a> &bull; <a href="https://discord.bots.gg/bots/560893917839622158" target="_blank" rel="noopener">Discord.bots Website</a></p>
