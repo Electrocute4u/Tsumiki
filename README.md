@@ -54,7 +54,8 @@ And having a great variety of GIFs/Images per Action Command is a must.
 - Handpicked GIFs and Images for Action Commands
 - No static text outcomes on Action Commands.
 - No Mention Limits on Action Commands.
-- No less then 5 GIFs/Images per Action Command. (Aiming for 50-100 GIFs/Images per Action Command!)
+- No less then 5 GIFs/Images per Action Command. (Aiming for 50-100 GIFs/Images per Action Command!) \
+**Note:** Most Action Commands have an average of around 50-60, highest are on 157 GIFs/Images.
 
 ## Mention System
 Tsumiki has a very Advanced Mention System. \
