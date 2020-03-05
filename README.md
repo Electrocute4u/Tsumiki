@@ -57,7 +57,7 @@ And having a great variety of GIFs/Images per Action Command is a must.
 Tsumiki has a very Advanced and Powerful Mention System. \
 It continues to grow even more Advanced over time. \
 **As of now, you are able to search for members in your own Guild with:**
-- Nickname (Example: ThisisAnNicknamedUser)
+- Nickname (Example: NicknamedUser)
 - Username (Example: Username#1234 or Username)
 - Descrim Numbers (Example: #1234 or 1234)
 - ID (Example: 209972381622468604, some Commands also allows Global Discord IDs!)
