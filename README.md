@@ -49,14 +49,17 @@ And having a great variety of GIFs/Images per Action Command is a must.
 
 **Tsumiki currently has:**
 - Advanced Mention System
-- Handpicked GIFs and Images
-- No static text outcomes (a few lines are rarer to come by then others!)
-- No less then 5 GIFs/Images per Action Command. (Aiming to have over 100 GIFs/Images on all!)
+- A Database
+- Customizable Prefix
+- Handpicked GIFs and Images for Action Commands
+- No static text outcomes on Action Commands.
+- No Mention Limits on Action Commands.
+- No less then 5 GIFs/Images per Action Command. (Aiming for 50-100 GIFs/Images per Action Command!)
 
 ## Mention System
-Tsumiki has a very Advanced and Powerful Mention System. \
-It continues to grow even more Advanced over time. \
-**As of now, you are able to search for members in your own Guild with:**
+Tsumiki has a very Advanced Mention System. \
+It continues to grow even more Powerful over time. \
+**As of now, you are able to Search for Members in your Guild with:**
 - Nickname (Example: NicknamedUser)
 - Username (Example: Username#1234 or Username)
 - Descrim Numbers (Example: #1234 or 1234)
@@ -64,12 +67,12 @@ It continues to grow even more Advanced over time. \
 - Mention (@Username)
 
 **Planned Upgrades to the Mention System:**
-- Role ID/Name (Example @RoleName or RoleName)
+- Tag all Members of a Role Group, by searching for Role with: \
+Role ID/Name (Example @RoleName or RoleName)
+- Seach for Users Globally in Guilds (With nickname, Username etc)
+- Search for Users Globally on Discord with their ID.
 
-This will only be implemented on some Commands, most likely on Action Commands.
-- Mutual User Search (Example: Username#1234 or Username)
-
-Search for Users Across Servers and use them as Mentions.
+- Search for Users Across Servers and use them as Mentions.
 This will only be for Users who shares a Guild Tsumiki is in.
 
 ## Which Anime Character is Tsumiki based on?
