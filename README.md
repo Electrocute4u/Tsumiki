@@ -35,7 +35,7 @@
 
 </details>
 
-# Tsumiki
+# Tsumiki's Official Website
 Check out Tsumiki's official Website here: https://www.tsumikibot.tk/
 
 # Tsumiki
