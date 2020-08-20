@@ -39,7 +39,7 @@
 Check out Tsumiki's official Website here: https://www.tsumikibot.tk/
 
 # Tsumiki
-Tsumiki is a Discord bot that is running on **Discord.js Library** and was developed using **JavaScript** programming language. \
+Tsumiki is a Discord bot running on **Discord.js Library** and was developed using **JavaScript** programming language. \
 The bot features various Commands, such as Action Commands, Utilities, Fun Commands, Predictions and more! \
 Tsumiki's Commands should feel like they want to be used over and over again, because of it's quality and layout. \
 But with the main focus on the design and the functionality, as well as Paginating some of them wherever it fits. \
