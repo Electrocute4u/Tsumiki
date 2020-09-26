@@ -1,12 +1,12 @@
 # What data does this bot store?
-Guild IDs
-User IDs
+[*] Guild IDs
+[*] User IDs
 
 # Why do we need the data, and why do we use this data?
 
 a) Guilds IDs' are stored for configuration settings (such as server modules, configuration settings and such.)
 
-c) User IDs' are stored for server owner IDs and marriage.
+b) User IDs' are stored for server owner IDs and marriage.
 
 ### Other than Discord, do we share your data with any 3rd parties? No, we do not share data with any 3rd parties!
 
