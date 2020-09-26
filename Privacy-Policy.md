@@ -6,7 +6,7 @@
 
 a) Guilds IDs' are stored for configuration settings (such as server modules, configuration settings and such.)
 
-b) User IDs' are stored for server owner IDs and marriage.
+b) User IDs' are stored for server owner IDs for discord servers and for marriages.
 
 ### Other than Discord, do we share your data with any 3rd parties? No, we do not share data with any 3rd parties!
 
