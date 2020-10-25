@@ -135,11 +135,6 @@ You can always ask in **#Bot-support on the server**, and maybe someone will hel
 
 **See Tsumiki on Top.gg here:** https://top.gg/bot/560893917839622158
 
-### botsfordiscord.com
-[![Bots for Discord](https://botsfordiscord.com/api/bot/560893917839622158/widget?theme=dark)](https://botsfordiscord.com/bots/560893917839622158)
-
-**See Tsumiki on botsfordiscord here:** https://botsfordiscord.com/bot/560893917839622158
-
 ## License
 Released under [MIT](https://opensource.org/licenses/MIT) license.
 
