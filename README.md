@@ -30,7 +30,7 @@
 - [Bugs & Problems](#found-a-bug-or-having-problems-with-my-bot)
 - [Bot help, Wiki help or Rest API](#have-a-question-regarding-the-bot-or-the-wiki-page-or-about-a-rest-api)
 - [Join the Official Server](#join-the-official-support-server)
-- [DBL Widgets display](#discord-bots-list-widgets)
+- [Bots List Widgets](#bots-list-widgets)
 - [License](#license)
 
 </details>
@@ -128,20 +128,17 @@ You can always ask in **#Bot-support on the server**, and maybe someone will hel
 <p><a href="http://www.discord.gg/kJP8m9W"><img src="https://discordapp.com/api/guilds/396117030375522307/widget.png?style=banner2" alt="" width="342" height="81" /></a>
 </p>
 
-## Discord Bots List Widgets
-They recently renamed themselves to [top.gg](https://top.gg/), but I still refer to them as DBL.
+## Bots List Widgets
 
-<a href="https://top.gg/bot/560893917839622158" >
-  <img src="https://top.gg/api/widget/status/560893917839622158.svg?noavatar=true&lefttextcolor=9029A2&leftcolor=F5CCFC" alt="Tsumiki" />
-</a> <a href="https://top.gg/bot/560893917839622158" >
-  <img src="https://top.gg/api/widget/lib/560893917839622158.svg?noavatar=true&lefttextcolor=9029A2&leftcolor=F5CCFC&rightcolor=DCA7E5&righttextcolor=9029A2" alt="Tsumiki" />
-</a> <a href="https://top.gg/bot/560893917839622158" >
-  <img src="https://top.gg/api/widget/owner/560893917839622158.svg?righttextcolor=9029A2&lefttextcolor=9029A2&leftcolor=F5CCFC&rightcolor=DCA7E5" alt="Tsumiki" />
-</a>
+### Top.gg
+[![Discord Bots](https://top.gg/api/widget/560893917839622158.svg)](https://top.gg/bot/560893917839622158)
 
-**Visit my DBL profile:** https://top.gg/user/203601251139715082
+**See Tsumiki on Top.gg here:** https://top.gg/bot/560893917839622158
 
-**See Tsumiki on DBL here:** https://top.gg/bot/560893917839622158
+### botsfordiscord.com
+[![Bots for Discord](https://botsfordiscord.com/api/bot/560893917839622158/widget?theme=dark)](https://botsfordiscord.com/bots/560893917839622158)
+
+**See Tsumiki on botsfordiscord here:** https://botsfordiscord.com/bot/560893917839622158
 
 ## License
 Released under [MIT](https://opensource.org/licenses/MIT) license.
