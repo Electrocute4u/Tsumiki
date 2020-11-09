@@ -8,7 +8,8 @@ a) Guilds IDs' are stored for configuration settings (such as server modules, co
 
 b) User IDs' are stored for server owner IDs for discord servers and for marriages.
 
-### Other than Discord, do we share your data with any 3rd parties? No, we do not share data with any 3rd parties!
+### Other than Discord, do we share your data with any 3rd parties?
+No, we do not share data with any 3rd parties!
 
 How can users get data removed, or how can users contact the bot owner? \
 They can contact me, Kuuko#0001 on Discord or join our support server: https://discord.gg/kJP8m9W
