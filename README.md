@@ -133,6 +133,9 @@ You can always ask in **#Bot-support on the server**, and maybe someone will hel
 ### Top.gg
 [![Discord Bots](https://top.gg/api/widget/560893917839622158.svg)](https://top.gg/bot/560893917839622158)
 
+### Bots for Discord
+[![Bots for Discord](https://botsfordiscord.com/api/bot/560893917839622158/widget?theme=dark)](https://botsfordiscord.com/bots/560893917839622158)
+
 **See Tsumiki on Top.gg here:** https://top.gg/bot/560893917839622158
 
 ## License
