@@ -30,7 +30,7 @@
 - [Bugs & Problems](#found-a-bug-or-having-problems-with-my-bot)
 - [Bot help, Wiki help or Rest API](#have-a-question-regarding-the-bot-or-the-wiki-page-or-about-a-rest-api)
 - [Join the Official Server](#join-the-official-support-server)
-- [Bots List Widgets](#bots-list-widgets)
+- [BotList Widgets](#botlist-widgets)
 - [License](#license)
 
 </details>
