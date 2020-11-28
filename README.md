@@ -128,7 +128,7 @@ You can always ask in **#Bot-support on the server**, and maybe someone will hel
 <p><a href="http://www.discord.gg/kJP8m9W"><img src="https://discordapp.com/api/guilds/396117030375522307/widget.png?style=banner2" alt="" width="342" height="81" /></a>
 </p>
 
-## Bots List Widgets
+## BotList Widgets
 
 ### Top.gg
 [![Discord Bots](https://top.gg/api/widget/560893917839622158.svg)](https://top.gg/bot/560893917839622158) \
