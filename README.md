@@ -1,19 +1,35 @@
-<a><img src="https://i.imgur.com/WW6iqjt.gif" style="width: 100%;" /></a>
-
+<a><img src="https://i.imgur.com/p6joWHp.jpg" style="width: 100%;" /></a>
+<h1 align="center" size="30px">
+Tsumiki
+</h1>
+<h3 align="center">
+The perfect Anime Action Bot for your Discord server!
+</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/uptime-24%2F7-informational">
-<img src="https://img.shields.io/badge/library-Discord.js-B2A7E5">
-<img src="https://img.shields.io/badge/docs-passing-brightgreen">
-<img src="https://img.shields.io/badge/-JavaScript-yellow">
-<img src="https://img.shields.io/badge/status-active-green">
+<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Ftsumikibot.tk">
+<img alt="Discord" src="https://img.shields.io/discord/396117030375522307?style=for-the-badge">
+<img alt="GitHub" src="https://img.shields.io/github/license/electrocute4u/tsumiki?style=for-the-badge">
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/release%20date-june%202019-red">
- <img src="https://img.shields.io/badge/version-1.4.4-blue">
-<img src="https://img.shields.io/badge/code%20repo-private-critical">
+<img alt="GitHub watchers" src="https://img.shields.io/github/watchers/electrocute4u/tsumiki?style=social">
+<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTsumikiDiscord">
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/electrocute4u?style=social">
 </p>
-<p align="center"><a href="https://top.gg/bot/560893917839622158" target="_blank" rel="noopener">Top.gg Website</a> &bull; <a href="https://twitter.com/Electrocute4u" target="_blank" rel="noopener">My personal Twitter</a> &bull; <a href="https://github.com/Electrocute4u" target="_blank" rel="noopener">My Github</a> &bull; <a href="https://top.gg/servers/396117030375522307/join" target="_blank" rel="noopener">Discord Server</a> &bull; <a href="https://discord.bots.gg/bots/560893917839622158" target="_blank" rel="noopener">Discord.bots Website</a></p>
+
+<p align="center">
+<img alt="npm" src="https://img.shields.io/npm/v/discord.js?color=blue&label=Discord.js&style=for-the-badge">
+<img alt="npm" src="https://img.shields.io/npm/v/npm?color=lightblue&label=NPM&style=for-the-badge">
+<img alt="npm" src="https://img.shields.io/npm/v/mongoose?color=lightgreen&label=Mongoose&style=for-the-badge">
+</p>
+
+<p align="center">
+<img alt="npm" src="https://img.shields.io/npm/v/tsumiki-reddit.js?color=pink&label=Tsumiki-reddit.js&style=for-the-badge">
+<img alt="npm" src="https://img.shields.io/npm/v/tsumiki-buttons?color=pink&label=Tsumiki%20Buttons&style=for-the-badge">
+<img alt="npm" src="https://img.shields.io/npm/v/tsumiki-dbl-eu?color=pink&label=tsumiki%20dbl%20eu&style=for-the-badge">
+</p>
+
+<p align="center"><a href="https://top.gg/bot/560893917839622158" target="_blank" rel="noopener">Top.gg Website</a> &bull; <a href="https://twitter.com/Electrocute4u" target="_blank" rel="noopener">My personal Twitter</a> &bull; <a href="https://github.com/Electrocute4u" target="_blank" rel="noopener">My Github</a> &bull; <a href="https://top.gg/servers/396117030375522307/join" target="_blank" rel="noopener">Discord Server</a></p>
 <p align="center"><a href="https://discord.js.org/#/docs/main/stable/general/welcome" target="_blank" rel="noopener">Discord.js Documentation</a> &bull; <a href="https://www.javascript.com/" target="_blank" rel="noopener">Javascript Website</a></p>
 <p align="center"><a href="https://tsumikibot.tk" target="_blank" rel="noopener">Tsumiki - Website</a></p>
 
@@ -37,10 +53,10 @@
 
 # About Tsumiki
 Tsumiki is a Discord bot running on **Discord.js Library** and was developed using **JavaScript** programming language. \
-The bot features various Commands, such as Action Commands, Utilities, Fun Commands, Predictions and more! \
-Tsumiki's Commands should feel like they want to be used over and over again, because of it's quality and layout. \
-But with the main focus on the design and the functionality, as well as Paginating some of them wherever it fits. \
-Commands such as Action Commands (Hug, kiss, nuzzle etc) often tends to be static and only contain one line or a static response, even if you have multiple mentions, and things like that is what I want to focus on changing for my bot.
+It has various different commands, but the main attraction of Tsumiki is her Action commands (hug, pat, kiss etc). \
+Tsumiki is mostly anime-themed, but it can also be used by anyone, it doesn't have to be just for weebs. \
+What sets Tsumiki out amongst countless other bots is her **[Mention System](#mention-system)**. \
+Tsumiki is not a very large bot, but it can rival almost every large bot with no shortcuts whatsoever.
 
 ## Who are Tsumiki based off?
 [Tsumiki Miniwa](https://acchikocchi.fandom.com/wiki/Tsumiki_Miniwa) is the main character from [Acchi Kocchi (Place to Place)](https://myanimelist.net/anime/12291/Acchi_Kocchi_TV).
