@@ -13,115 +13,97 @@
  <img src="https://img.shields.io/badge/version-1.4.4-blue">
 <img src="https://img.shields.io/badge/code%20repo-private-critical">
 </p>
-<p align="center"><a href="https://top.gg/bot/560893917839622158" target="_blank" rel="noopener">DBL Website</a> &bull; <a href="https://twitter.com/Electrocute4u" target="_blank" rel="noopener">My personal Twitter</a> &bull; <a href="https://github.com/Electrocute4u" target="_blank" rel="noopener">My Github</a> &bull; <a href="https://top.gg/servers/396117030375522307/join" target="_blank" rel="noopener">Discord Server</a> &bull; <a href="https://discord.bots.gg/bots/560893917839622158" target="_blank" rel="noopener">Discord.bots Website</a></p>
+<p align="center"><a href="https://top.gg/bot/560893917839622158" target="_blank" rel="noopener">Top.gg Website</a> &bull; <a href="https://twitter.com/Electrocute4u" target="_blank" rel="noopener">My personal Twitter</a> &bull; <a href="https://github.com/Electrocute4u" target="_blank" rel="noopener">My Github</a> &bull; <a href="https://top.gg/servers/396117030375522307/join" target="_blank" rel="noopener">Discord Server</a> &bull; <a href="https://discord.bots.gg/bots/560893917839622158" target="_blank" rel="noopener">Discord.bots Website</a></p>
 <p align="center"><a href="https://discord.js.org/#/docs/main/stable/general/welcome" target="_blank" rel="noopener">Discord.js Documentation</a> &bull; <a href="https://www.javascript.com/" target="_blank" rel="noopener">Javascript Website</a></p>
+<p align="center"><a href="https://tsumikibot.tk" target="_blank" rel="noopener">Tsumiki - Website</a></p>
 
 ## Table of contents
 
 <details>
-<summary>"Click to expand"</summary>
  
-- [About the bot](#tsumiki)
-- [Who is tsumiki?](#main-focus)
-- [Tsumiki's Mention System](#mention-system)
-- [Who Tsumiki is based on](#which-anime-character-is-tsumiki-based-on)
+<summary>"Click to expand" </summary>
+ 
+- [About the bot](#about-tsumiki)
+- [Tsumiki based on...](#who-are-tsumiki-based-off)
+- [Tsumiki features](#tsumiki-features)
+- [Mention System 3.0](#mention-system)
 - [Useful links](#useful-links)
-- [Submit a bot feature](#want-to-submit-a-bot-feature)
-- [Bugs & Problems](#found-a-bug-or-having-problems-with-my-bot)
-- [Bot help, Wiki help or Rest API](#have-a-question-regarding-the-bot-or-the-wiki-page-or-about-a-rest-api)
 - [Join the Official Server](#join-the-official-support-server)
 - [BotList Widgets](#botlist-widgets)
 - [License](#license)
 
 </details>
 
-# Tsumiki's Official Website
-Check out Tsumiki's official Website here: https://www.tsumikibot.tk/
 
-# Tsumiki
+# About Tsumiki
 Tsumiki is a Discord bot running on **Discord.js Library** and was developed using **JavaScript** programming language. \
 The bot features various Commands, such as Action Commands, Utilities, Fun Commands, Predictions and more! \
 Tsumiki's Commands should feel like they want to be used over and over again, because of it's quality and layout. \
 But with the main focus on the design and the functionality, as well as Paginating some of them wherever it fits. \
 Commands such as Action Commands (Hug, kiss, nuzzle etc) often tends to be static and only contain one line or a static response, even if you have multiple mentions, and things like that is what I want to focus on changing for my bot.
 
-## Main Focus:
-The main focus is to develop the best "Anime focused" Action bot on the Bot market. \
-A great Action Bot requires an Advanced Mention System. Shoud not include static text outcomes on Mentions.\
-And having a great variety of GIFs/Images per Action Command is a must.
+## Who are Tsumiki based off?
+[Tsumiki Miniwa](https://acchikocchi.fandom.com/wiki/Tsumiki_Miniwa) is the main character from [Acchi Kocchi (Place to Place)](https://myanimelist.net/anime/12291/Acchi_Kocchi_TV).
 
-**Tsumiki currently has:**
-- Advanced Mention System
-- A Database
-- Customizable Prefix
-- Handpicked GIFs and Images for Action Commands
-- No static text outcomes on Action Commands.
-- No Mention Limits on Action Commands.
-- No less then 5 GIFs/Images per Action Command. (Aiming for 50-100 GIFs/Images per Action Command!) \
-**Note:** Most Action Commands have an average of around 50-60, highest are on 157 GIFs/Images.
-- A Anime Trap Database [In-Development]
-
-## Mention System
-Tsumiki has a very Advanced Mention System. \
-It continues to grow even more Powerful over time. \
-**As of now, you are able to Search for Members in your Guild with:**
-- Nickname (Example: NicknamedUser)
-- Username (Example: Username#1234 or Username)
-- Descrim Numbers (Example: #1234 or 1234)
-- ID (Example: 209972381622468604, some Commands also allows Global Discord IDs!)
-- Mention (@Username)
-
-**Planned Upgrades to the Mention System:**
-- Tag all Members of a Role Group, by searching for Role with: \
-Role ID/Name (Example @RoleName or RoleName)
-- Seach for Users Globally in Guilds (With nickname, Username etc)
-- Search for Users Globally on Discord with their ID.
-
-- Search for Users Across Servers and use them as Mentions.
-This will only be for Users who shares a Guild Tsumiki is in.
-
-## Which Anime Character is Tsumiki based on?
-[Tsumiki Miniwa](https://acchikocchi.fandom.com/wiki/Tsumiki_Miniwa) is a Anime character from [Acchi Kocchi (Place to Place)](https://myanimelist.net/anime/12291/Acchi_Kocchi_TV).
-
-Since the most kawaii theme right now is Anime related Discord bots, I decided to choose Tsumiki as mine.
-
-There is already a bot called [Tsumiki-bot](https://top.gg/bot/390347640438521856), but it seem to be outdated and possibly not being developed on anymore.
-
+Since the most kawaii theme right now is Anime related Discord bots, I decided to choose Tsumiki as mine. \
+There is already a bot called [Tsumiki-bot](https://top.gg/bot/390347640438521856), but it seem to be outdated and possibly not being developed on anymore. \
 So I stepped up my game with a new bot on the Discord bot market, which is not related with [Tsumiki-bot](https://top.gg/bot/390347640438521856) features.
 
+## Tsumiki features:
+**Tsumiki currently has:**
+- 25+ Action commands (Hug, kiss, pat etc) with more being added over time!
+- Powerful and advanced [Mention System](#mention-system)
+- Pagination/[Discord Buttons](https://www.npmjs.com/package/tsumiki-buttons)
+- A database that handles everything from server list cache to bot updates and more.
+- Custom Server Prefix and Description
+- Server Modules that can be turned on/off
+- Marriage. Do keep in mind that this is not real and bots are not marriageable! uwu
+- Role Hierarchy (VIP, Premium, Developer etc)
+- Classical prediction commands and a few custom ones (i.e like, love and pick)
+- Waifurate and Husbandorate
+- Kitsu.io and MyAnimeList database Anime OR Manga search (with random suggestions!)
+- Detailed serverinfo with Server Description, Server Avatar and Splash Invite Screen (Direct links for 32 and up to 2048 size image)
+- Detailed statistic command (total + daily command usage, cached users, bot groups, ping, RAM usage, bot version and more)
+
+...And so much more!
+
+## Mention System
+Tsumiki is no longer just your "average" bot. \
+With a powerful, advanced and enriching Mention System that can be on par or even rival larger bots. \
+This bot is no longer just your normal everyday bot. \
+First it was Mention System V.1, which was enough to put most bots off the chart. \
+Furthermore, developing it into V.2 enhanced it further and it got even more powerful with global user support. \
+With the latest version, being 3.0 released, it now features Role Support, which is by no feat easily done.
+
+See below for everything the new and powerful **Mention System 3.0** recently released can do!
+
+There are several ways to find a user and use them in commands silently!
+**Finding a Discord user on that server:**
+- Server nickname
+- Discord username (i.e Username or Username#1234) 
+- Descriminator (I.e #1234 or 1234)
+- User ID (I.e 209972381622468604)
+- Mention (I.e @Username)
+
+**[New] Find a user or multiple user(s) on that server with a role:** \
+Note: The user in the role mentioned/found would have to be cached on beforehand! \
+This means that if no user has spoken in that server since last bot restart, it wouldn't return any user(s).
+- Role tag (i.e @CoolestGroup or <@&396819590266486784>)
+- Role ID (i.e 396819590266486784)
+
+**Finding a global user and use them for future:**
+- User ID
+**Note:** Once the user is cached, they can easily be mentioned in other servers [Example](https://i.imgur.com/5D0lgIU.gif) with the following methods:
+- Discord username (i.e Username or Username#1234) 
+- User ID (I.e 209972381622468604)
+- Descriminator (I.e #1234 or 1234)
+
 ## Useful links
-**Bot invite link:** [Click here for the Discord bot invite page](https://discordapp.com/oauth2/authorize?client_id=560893917839622158&scope=bot&permissions=201714880)
-
-**Issues:** https://github.com/Electrocute4u/Tsumiki/issues
-
-**Documentation:** https://github.com/Electrocute4u/Tsumiki/wiki
-
-**Support server:** https://discord.gg/kJP8m9W
-
+**Bot invite link:** [Click here for the Discord bot invite page](https://discord.com/oauth2/authorize?client_id=560893917839622158&scope=bot&permissions=201714880) \
+**Issues:** https://github.com/Electrocute4u/Tsumiki/issues \
+**Documentation:** https://github.com/Electrocute4u/Tsumiki/wiki \
+**Support server:** https://discord.gg/kJP8m9W \
 **Patreon:** -Coming soon-
-
-## Want to submit a bot feature?
-You can submit a bot feature on our [Discord Support Server](https://discord.gg/kJP8m9W) in **#bot-open-requests**.
-
-**Or you can open a [issue](https://github.com/Electrocute4u/Tsumiki/issues) here and label it with:**
-
-![](https://img.shields.io/badge/-Bot%20feature-fac4ff)
-
-## Found a bug or having problems with my bot?
-You can report any bugs on Discord in **#report-tsumiki-bugs**
-
-You can ask for help on Discord in **#bot-support**
-
-**Or you can open up a [issue](https://github.com/Electrocute4u/Tsumiki/issues) here and label it with one of these:**
-
-![](https://img.shields.io/badge/-Help%20wanted-39d3a7) ![](https://img.shields.io/badge/-bug-d73a4a)
-
-## Have a question regarding the bot or the wiki page or about a Rest API?
-You can always ask in **#Bot-support on the server**, and maybe someone will help you out sooner.
-
-**You can also open up a [issue](https://github.com/Electrocute4u/Tsumiki/issues) here and tag it with one of these:**
-
-![](https://img.shields.io/badge/-Question-d876e3) ![](https://img.shields.io/badge/-Documentation-0075ca) ![](https://img.shields.io/badge/-Rest--API-167199)
 
 ## Join the official Support server
 
@@ -137,7 +119,6 @@ You can always ask in **#Bot-support on the server**, and maybe someone will hel
 ### Bots for Discord
 [![Bots for Discord](https://botsfordiscord.com/api/bot/560893917839622158/widget?theme=dark)](https://botsfordiscord.com/bots/560893917839622158) \
 **See Tsumiki on Bots for Discord [here](https://botsfordiscord.com/bot/560893917839622158):**
-
 
 ## License
 Released under [MIT](https://opensource.org/licenses/MIT) license.
