@@ -41,7 +41,7 @@ The perfect Anime Action Bot for your Discord server!
 - [About the bot](#about-tsumiki)
 - [Tsumiki based on...](#who-are-tsumiki-based-off)
 - [Tsumiki features](#tsumiki-features)
-- [Mention System 3.0](#mention-system-3.0)
+- [Mention System 3.0](#mention-system-30)
 - [Useful links](#useful-links)
 - [Join the Official Server](#join-the-official-support-server)
 - [BotList Widgets](#botlist-widgets)
@@ -83,12 +83,23 @@ So I stepped up my game with a new bot on the Discord bot market, which is not r
 ...And so much more!
 
 ## Mention System 3.0
-Tsumiki is no longer just your "average" bot. \
-With a powerful, advanced and enriching Mention System that can be on par or even rival larger bots. \
-This bot is no longer just your normal everyday bot. \
-First it was Mention System V.1, which was enough to put most bots off the chart. \
-Furthermore, developing it into V.2 enhanced it further and it got even more powerful with global user support. \
-With the latest version, being 3.0 released, it now features Role Support, which is by no feat easily done.
+*Silently find a Discord user/Server user and use them in any command with this system.* \
+*Without having to worry about @pinging them* like most bots utilize nowadays \
+*Because we all have that one person who ALWAYS hate @mentions, right?* 
+
+<details>
+ 
+<summary>"Example" </summary>
+ 
+<a><img src="https://i.imgur.com/p6joWHp.jpg" style="width: 100%;" /></a>
+
+</details>
+
+With its powerful and advanced, yet enriching Mention System 3.0 it can be on par or even rival bigger bots with ease. \
+First it was just a tiny hobby project for me to toy around with, which was barely enough to put most bots off the chart. \
+Furthermore, developing it into V.2 enhanced it even a step further and it got even more powerful with its newely added global user support. \
+With the latest version, being 3.0 released, it now features even server role users support, which revolutionized it. \
+If this is not enough to satisfy the most average Discord user, I'll fall from grace, literally. 
 
 See below for everything the new and powerful **Mention System 3.0** recently released can do!
 
