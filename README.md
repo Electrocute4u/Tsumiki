@@ -6,7 +6,6 @@ Tsumiki
 The perfect Anime Action Bot for your Discord server!
 </h3>
 <p align="center">
-<img alt="Website" src="https://img.shields.io/website?down_color=red&down_message=Offline&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Ftsumikibot.tk">
 <img alt="Discord" src="https://img.shields.io/discord/396117030375522307?style=for-the-badge">
 <img alt="GitHub" src="https://img.shields.io/github/license/electrocute4u/tsumiki?style=for-the-badge">
 </p>
