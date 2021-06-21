@@ -89,9 +89,9 @@ So I stepped up my game with a new bot on the Discord bot market, which is not r
 
 <details>
  
-<summary>"Example" </summary>
+<summary>Open for a detailed example here...</summary>
  
-<a><img src="https://i.imgur.com/p6joWHp.jpg" style="width: 100%;" /></a>
+<a><img src="https://i.imgur.com/4PeiuQk.jpg" style="width: 100%;" /></a>
 
 </details>
 
