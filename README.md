@@ -41,7 +41,7 @@ The perfect Anime Action Bot for your Discord server!
 - [About the bot](#about-tsumiki)
 - [Tsumiki based on...](#who-are-tsumiki-based-off)
 - [Tsumiki features](#tsumiki-features)
-- [Mention System 3.0](#mention-system)
+- [Mention System 3.0](#mention-system-3.0)
 - [Useful links](#useful-links)
 - [Join the Official Server](#join-the-official-support-server)
 - [BotList Widgets](#botlist-widgets)
@@ -82,7 +82,7 @@ So I stepped up my game with a new bot on the Discord bot market, which is not r
 
 ...And so much more!
 
-## Mention System
+## Mention System 3.0
 Tsumiki is no longer just your "average" bot. \
 With a powerful, advanced and enriching Mention System that can be on par or even rival larger bots. \
 This bot is no longer just your normal everyday bot. \
