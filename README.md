@@ -87,13 +87,7 @@ So I stepped up my game with a new bot on the Discord bot market, which is not r
 *Without having to worry about @pinging them* like most bots utilize nowadays \
 *Because we all have that one person who ALWAYS hate @mentions, right?* 
 
-<details>
- 
-<summary>Open for a detailed example here...</summary>
- 
 <a><img src="https://i.imgur.com/4PeiuQk.jpg" style="width: 100%;" /></a>
-
-</details>
 
 With its powerful and advanced, yet enriching Mention System 3.0 it can be on par or even rival bigger bots with ease. \
 First it was just a tiny hobby project for me to toy around with, which was barely enough to put most bots off the chart. \
