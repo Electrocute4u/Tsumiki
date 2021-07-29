@@ -106,10 +106,11 @@ There are several ways to find a user and use them in commands silently!
 - Mention (I.e @Username)
 
 **[New] Find a user or multiple user(s) on that server with a role:** \
-Note: The user in the role mentioned/found would have to be cached on beforehand! \
+Note: The user in the role mentioned/found would have to be cached beforehand! \
 This means that if no user has spoken in that server since last bot restart, it wouldn't return any user(s).
 - Role tag (i.e @CoolestGroup or <@&396819590266486784>)
 - Role ID (i.e 396819590266486784)
+- Role name (i.e Developer)
 
 **Finding a global user and use them for future:**
 - User ID
