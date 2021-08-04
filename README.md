@@ -68,7 +68,7 @@ So I stepped up my game with a new bot on the Discord bot market, which is not r
 **Tsumiki currently has:**
 - 25+ Action commands (Hug, kiss, pat etc) with more being added over time!
 - Powerful and advanced [Mention System](#mention-system)
-- Pagination/[Discord Buttons](https://www.npmjs.com/package/tsumiki-buttons)
+- Pagination (React with the emojis for next/back)
 - A database that handles everything from server list cache to bot updates and more.
 - Custom Server Prefix and Description
 - Server Modules that can be turned on/off
