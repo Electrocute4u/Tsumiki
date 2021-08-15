@@ -99,21 +99,21 @@ With the latest version, being 3.0 released, it now features even server role us
 See below for everything the new and powerful **Mention System 3.0** recently released can do!
 
 There are several ways to find a user and use them in commands silently! \
-**Finding a Discord user on your server:**
+### Finding a Discord user on your server:
 - Server nickname
 - Discord username (i.e Username or Username#1234) 
 - Descriminator (I.e #1234 or 1234)
 - User ID (I.e 209972381622468604)
 - Mention (I.e @Username)
 
-**[New] Find a user or multiple user(s) on your server with a role:** \
+### [New] Find a user or multiple user(s) on your server with a role:
 Note: The user in the role mentioned/found would have to be cached beforehand! \
 This means that if no user has spoken in that server since last bot restart, it wouldn't return any user(s).
 - Role tag (i.e @CoolestGroup or <@&396819590266486784>)
 - Role ID (i.e 396819590266486784)
 - Role name (i.e Developer)
 
-**Finding a global user and using them in the future:**
+### Finding a global user and using them in the future:
 - User ID
 **Note:** Once the user is cached, they can easily be mentioned in other servers [Example](https://i.imgur.com/5D0lgIU.gif) with the following methods:
 - Discord username (i.e Username or Username#1234) 
