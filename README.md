@@ -65,7 +65,7 @@ There is already a bot called [Tsumiki-bot](https://top.gg/bot/39034764043852185
 So I stepped up my game with a new bot on the Discord bot market, which is not related with [Tsumiki-bot](https://top.gg/bot/390347640438521856) features.
 
 ## Tsumiki features:
-**Tsumiki currently has:**
+### Tsumiki currently has:
 - 25+ Action commands (Hug, kiss, pat etc) with more being added over time!
 - Powerful and advanced [Mention System](#mention-system)
 - Pagination (React with the emojis for next/back)
