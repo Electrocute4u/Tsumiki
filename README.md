@@ -12,7 +12,7 @@ The perfect Anime Action Bot for your Discord server!
 
 <p align="center">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/electrocute4u/tsumiki?style=social">
-<img alt="Twitter URL" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FTsumikiDiscord">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TsumikiDiscord?style=social">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/electrocute4u?style=social">
 </p>
 
@@ -22,27 +22,21 @@ The perfect Anime Action Bot for your Discord server!
 <img alt="npm" src="https://img.shields.io/npm/v/mongoose?color=lightgreen&label=Mongoose&style=for-the-badge">
 </p>
 
-<p align="center">
-<img alt="npm" src="https://img.shields.io/npm/v/tsumiki-reddit.js?color=pink&label=Tsumiki-reddit.js&style=for-the-badge">
-<img alt="npm" src="https://img.shields.io/npm/v/tsumiki-buttons?color=pink&label=Tsumiki%20Buttons&style=for-the-badge">
-<img alt="npm" src="https://img.shields.io/npm/v/tsumiki-dbl-eu?color=pink&label=tsumiki%20dbl%20eu&style=for-the-badge">
-</p>
-
-<p align="center"><a href="https://top.gg/bot/560893917839622158" target="_blank" rel="noopener">Top.gg Website</a> &bull; <a href="https://twitter.com/Electrocute4u" target="_blank" rel="noopener">My personal Twitter</a> &bull; <a href="https://github.com/Electrocute4u" target="_blank" rel="noopener">My Github</a> &bull; <a href="https://top.gg/servers/396117030375522307/join" target="_blank" rel="noopener">Discord Server</a></p>
+<p align="center"><a href="https://top.gg/bot/560893917839622158" target="_blank" rel="noopener">Top.gg Bot page</a> &bull; <a href="https://twitter.com/Electrocute4u" target="_blank" rel="noopener">My personal Twitter</a> &bull; <a href="https://github.com/Electrocute4u" target="_blank" rel="noopener">My Github</a> &bull; <a href="https://top.gg/servers/396117030375522307/join" target="_blank" rel="noopener">Discord Server</a></p>
 <p align="center"><a href="https://discord.js.org/#/docs/main/stable/general/welcome" target="_blank" rel="noopener">Discord.js Documentation</a> &bull; <a href="https://www.javascript.com/" target="_blank" rel="noopener">Javascript Website</a></p>
-<p align="center"><a href="https://tsumikibot.tk" target="_blank" rel="noopener">Tsumiki - Website</a></p>
+<p align="center"><a href="https://tsumikibot.tk" target="_blank" rel="noopener">Official Website</a></p>
 
-## Table of contents
+## [Table of contents](table-of-contents)
 
 <details>
  
-<summary>"Click to expand" </summary>
+<summary>"Click to expand the Table of Contents" </summary>
  
 - [About the bot](#about-the-discord-bot)
-- [Based on...](#who-are-the-discord-bot-based-off)
+- [Bot is based on](#who-the-discord-bot-are-based-on)
 - [Features](#features)
 - [Mention System 3.0](#mention-system-30)
-- [F.A.Q](#f.a.q)
+- [F.A.Q](#faq)
 - [Useful links](#useful-links)
 - [Join the Official Server](#join-the-official-support-server)
 - [BotList Widgets](#botlist-widgets)
@@ -51,20 +45,20 @@ The perfect Anime Action Bot for your Discord server!
 </details>
 
 
-# About the Discord bot
+# [About the Discord bot](#about-the-discord-bot)
 The bot is running on **Discord.js Library** and was developed using **JavaScript** programming language. \
 It has various different commands, but the main attraction of the bot is its Action commands (hug, pat, kiss etc). \
 The bot is mostly anime-themed, but it can also be used by anyone, it doesn't have to be just for weebs. \
 What sets this bot out amongst countless other bots is its **[Mention System](#mention-system)**.
 
-## Who are the Discord bot based off?
+## [Who the Discord bot are based on](#who-the-discord-bot-are-based-on)
 [Tsumiki Miniwa](https://acchikocchi.fandom.com/wiki/Tsumiki_Miniwa) is the main character from [Acchi Kocchi (Place to Place)](https://myanimelist.net/anime/12291/Acchi_Kocchi_TV).
 
 Since the most kawaii theme right now is Anime related Discord bots, I decided to choose her as mine. \
 There is already a bot called [Tsumiki-bot](https://top.gg/bot/390347640438521856), but it seem to be outdated and possibly not being developed on anymore. \
 So I stepped up my game with a new bot on the Discord bot market, which is not related with [Tsumiki-bot](https://top.gg/bot/390347640438521856) features.
 
-## Features:
+## [Features](#features)
 ### The bot currently has:
 - 25+ Action commands (Hug, kiss, pat etc) with more being added over time!
 - Powerful and advanced [Mention System](#mention-system-30)
@@ -82,7 +76,11 @@ So I stepped up my game with a new bot on the Discord bot market, which is not r
 
 ...And so much more!
 
-## Mention System 3.0
+## [Mention System 3.0](#mention-system-30)
+### What is a Mention System?
+A Mention System is a system that will help find a user with various methods. \
+For the common developer or someone who don't really need it, this system is more or less just to allow a user ID or a @Mention.
+
 *Silently find a global Discord or local Server user and use them in any command with this system.* \
 *Without having to worry about @pinging them* like most bots utilize nowadays \
 *Because we all have that one person who ALWAYS hate @mentions, right?* 
@@ -120,10 +118,10 @@ This means that if no user has spoken in that server since last bot restart, it 
 - User ID (I.e 209972381622468604)
 - Descriminator (I.e #1234 or 1234)
 
-## F.A.Q
+## [F.A.Q](#faq)
 *Here is a short FAQ with the most common questions one mostly asks about.*
 
-### Main purpose of the Discord bot?
+### Main purpose of the Discord bot
 Milim aims for the "best" action bot on the discord bot market. And its main purpose is to produce anime action commands and have the most powerful and advanced mention system there is.
 
 ### Unique about the Mention System?
@@ -142,28 +140,26 @@ This is a hobby project and a learning ground for me since 2019, with continues 
 ### Does the Discord bot have a official website?
 You can find the official website for it **[here](https://tsumikibot.tk)**.
 
-## Useful links
-**Bot invite link:** [Click here for the Discord bot invite page](https://discord.com/oauth2/authorize?client_id=560893917839622158&scope=bot&permissions=201714880) \
-**Issues:** https://github.com/Electrocute4u/Tsumiki/issues \
-**Support server:** https://discord.gg/REEZSj2Uj7 \
-**Patreon:** -Coming soon-
+## [Useful links](#useful-links)
+- [Bot invite link](https://discord.com/oauth2/authorize?client_id=560893917839622158&scope=bot&permissions=201714880) 
+- [Issues](https://github.com/Electrocute4u/Tsumiki/issues) 
+- [Support server](https://discord.gg/REEZSj2Uj7) 
+- **Patreon:** -Coming soon-
 
 ## Join the official Support server
-
 <p><a href="http://www.discord.gg/kJP8m9W"><img src="https://discordapp.com/api/guilds/396117030375522307/widget.png?style=banner2" alt="" width="342" height="81" /></a>
 </p>
 
-## BotList Widgets
+## [BotList Widgets](#botlist-widgets)
 
-### Top.gg
-[![Discord Bots](https://top.gg/api/widget/560893917839622158.svg)](https://top.gg/bot/560893917839622158) \
-**See the bot on Top.gg [here](https://top.gg/bot/560893917839622158):**
+### Top.gg \[[Link](https://top.gg/bot/560893917839622158)\]
+[![Discord Bots](https://top.gg/api/widget/560893917839622158.svg)](https://top.gg/bot/560893917839622158)
 
-### Bots for Discord
-[![Bots for Discord](https://botsfordiscord.com/api/bot/560893917839622158/widget?theme=dark)](https://botsfordiscord.com/bots/560893917839622158) \
-**See the bot on Bots for Discord [here](https://botsfordiscord.com/bot/560893917839622158):**
+### Bots for Discord \[[Link](https://botsfordiscord.com/bot/560893917839622158)\]
+[![Bots for Discord](https://botsfordiscord.com/api/bot/560893917839622158/widget?theme=dark)](https://botsfordiscord.com/bots/560893917839622158)
 
-## License
+
+## [License](#license)
 Released under [MIT](https://opensource.org/licenses/MIT) license.
 
 The bot is named after the main character of [Acchi Kocchi](https://myanimelist.net/anime/12291/Acchi_Kocchi_TV), a Manga and Anime by [Ishiki](https://myanimelist.net/people/13057/Ishiki)
