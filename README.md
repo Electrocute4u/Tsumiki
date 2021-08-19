@@ -38,10 +38,11 @@ The perfect Anime Action Bot for your Discord server!
  
 <summary>"Click to expand" </summary>
  
-- [About the bot](#about-tsumiki)
-- [Tsumiki based on...](#who-are-tsumiki-based-off)
-- [Tsumiki features](#tsumiki-features)
+- [About the bot](#about-the-discord-bot)
+- [Based on...](#who-are-the-discord-bot-based-off)
+- [Features](#features)
 - [Mention System 3.0](#mention-system-30)
+- [F.A.Q](#f.a.q)
 - [Useful links](#useful-links)
 - [Join the Official Server](#join-the-official-support-server)
 - [BotList Widgets](#botlist-widgets)
@@ -50,22 +51,21 @@ The perfect Anime Action Bot for your Discord server!
 </details>
 
 
-# About Tsumiki
-Tsumiki is a Discord bot running on **Discord.js Library** and was developed using **JavaScript** programming language. \
-It has various different commands, but the main attraction of Tsumiki is her Action commands (hug, pat, kiss etc). \
-Tsumiki is mostly anime-themed, but it can also be used by anyone, it doesn't have to be just for weebs. \
-What sets Tsumiki out amongst countless other bots is her **[Mention System](#mention-system)**. \
-Tsumiki is not a very large bot, but it can rival almost every large bot with no shortcuts whatsoever.
+# About the Discord bot
+The bot is running on **Discord.js Library** and was developed using **JavaScript** programming language. \
+It has various different commands, but the main attraction of the bot is its Action commands (hug, pat, kiss etc). \
+The bot is mostly anime-themed, but it can also be used by anyone, it doesn't have to be just for weebs. \
+What sets this bot out amongst countless other bots is its **[Mention System](#mention-system)**.
 
-## Who are Tsumiki based off?
+## Who are the Discord bot based off?
 [Tsumiki Miniwa](https://acchikocchi.fandom.com/wiki/Tsumiki_Miniwa) is the main character from [Acchi Kocchi (Place to Place)](https://myanimelist.net/anime/12291/Acchi_Kocchi_TV).
 
-Since the most kawaii theme right now is Anime related Discord bots, I decided to choose Tsumiki as mine. \
+Since the most kawaii theme right now is Anime related Discord bots, I decided to choose her as mine. \
 There is already a bot called [Tsumiki-bot](https://top.gg/bot/390347640438521856), but it seem to be outdated and possibly not being developed on anymore. \
 So I stepped up my game with a new bot on the Discord bot market, which is not related with [Tsumiki-bot](https://top.gg/bot/390347640438521856) features.
 
-## Tsumiki features:
-### Tsumiki currently has:
+## Features:
+### The bot currently has:
 - 25+ Action commands (Hug, kiss, pat etc) with more being added over time!
 - Powerful and advanced [Mention System](#mention-system-30)
 - Pagination (React with the emojis for next/back)
@@ -120,11 +120,32 @@ This means that if no user has spoken in that server since last bot restart, it 
 - User ID (I.e 209972381622468604)
 - Descriminator (I.e #1234 or 1234)
 
+## F.A.Q
+*Here is a short FAQ with the most common questions one mostly asks about.*
+
+### Main purpose of the Discord bot?
+Milim aims for the "best" action bot on the discord bot market. And its main purpose is to produce anime action commands and have the most powerful and advanced mention system there is.
+
+### Unique about the Mention System?
+It allows a user to go beyond that of what most bots offers to them with mentioning. A Discord ID or @Mention is fine as is, but it felt like a pain after a while. Therefore I coded my own system that allows one to find global discord users with ID, local users with username, nickname, descrimnator and more.
+
+### What are all of Discord bot's features?
+Everything is listed in in [Features](#features)
+
+### Do the bot have any premium content? Can I support the project?
+The Discord bot currently are 100% free and has no limitations with premium perks. But the system is in place and it may become active in the future.
+As for supporting it, any donations are welcome. Feel free to PM **Kuuko#0001** on Discord for further details.
+
+### How often is there updates?
+This is a hobby project and a learning ground for me since 2019, with continues updates almost weekly. However as of lately (2021), I've taken a step back and become less active in the project. But I am still around to patch bugs and at times dedicate myself fully to the project.
+
+### Does the Discord bot have a official website?
+You can find the official website for it **[here](https://tsumikibot.tk)**.
+
 ## Useful links
 **Bot invite link:** [Click here for the Discord bot invite page](https://discord.com/oauth2/authorize?client_id=560893917839622158&scope=bot&permissions=201714880) \
 **Issues:** https://github.com/Electrocute4u/Tsumiki/issues \
-**Documentation:** https://github.com/Electrocute4u/Tsumiki/wiki \
-**Support server:** https://discord.gg/kJP8m9W \
+**Support server:** https://discord.gg/REEZSj2Uj7 \
 **Patreon:** -Coming soon-
 
 ## Join the official Support server
@@ -136,13 +157,13 @@ This means that if no user has spoken in that server since last bot restart, it 
 
 ### Top.gg
 [![Discord Bots](https://top.gg/api/widget/560893917839622158.svg)](https://top.gg/bot/560893917839622158) \
-**See Tsumiki on Top.gg [here](https://top.gg/bot/560893917839622158):**
+**See the bot on Top.gg [here](https://top.gg/bot/560893917839622158):**
 
 ### Bots for Discord
 [![Bots for Discord](https://botsfordiscord.com/api/bot/560893917839622158/widget?theme=dark)](https://botsfordiscord.com/bots/560893917839622158) \
-**See Tsumiki on Bots for Discord [here](https://botsfordiscord.com/bot/560893917839622158):**
+**See the bot on Bots for Discord [here](https://botsfordiscord.com/bot/560893917839622158):**
 
 ## License
 Released under [MIT](https://opensource.org/licenses/MIT) license.
 
-Tsumiki is named after the main character of [Acchi Kocchi](https://myanimelist.net/anime/12291/Acchi_Kocchi_TV), a Manga and Anime by [Ishiki](https://myanimelist.net/people/13057/Ishiki)
+The bot is named after the main character of [Acchi Kocchi](https://myanimelist.net/anime/12291/Acchi_Kocchi_TV), a Manga and Anime by [Ishiki](https://myanimelist.net/people/13057/Ishiki)
