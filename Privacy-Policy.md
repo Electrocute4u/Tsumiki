@@ -1,4 +1,4 @@
-# Privacy Policy - Tsumiki Discord Bot
+# Privacy Policy - Milim Discord Bot
 
 ## What sort of data does this bot store?
 - Guild IDs
