@@ -1,7 +1,5 @@
-<a><img src="https://i.imgur.com/p6joWHp.jpg" style="width: 100%;" /></a>
-<h1 align="center" size="30px">
-Tsumiki
-</h1>
+<a><img src="https://i.imgur.com/g7FqDm4.jpg" style="width: 100%;" /></a>
+<h1 align="center" size="30px">Milim</h1>
 <h3 align="center">
 The perfect Anime Action Bot for your Discord server!
 </h3>
@@ -12,19 +10,19 @@ The perfect Anime Action Bot for your Discord server!
 
 <p align="center">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/electrocute4u/tsumiki?style=social">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TsumikiDiscord?style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MilimBot?style=social">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/electrocute4u?style=social">
 </p>
 
 <p align="center">
-<img alt="npm" src="https://img.shields.io/npm/v/discord.js?color=blue&label=Discord.js&style=for-the-badge">
+<img alt="npm" src="https://img.shields.io/badge/discord.js-v.12.5.3-blue?&label=Discord.js&style=for-the-badge">
 <img alt="npm" src="https://img.shields.io/npm/v/npm?color=lightblue&label=NPM&style=for-the-badge">
 <img alt="npm" src="https://img.shields.io/npm/v/mongoose?color=lightgreen&label=Mongoose&style=for-the-badge">
 </p>
 
-<p align="center"><a href="https://top.gg/bot/560893917839622158" target="_blank" rel="noopener">Top.gg Bot page</a> &bull; <a href="https://twitter.com/Electrocute4u" target="_blank" rel="noopener">My personal Twitter</a> &bull; <a href="https://github.com/Electrocute4u" target="_blank" rel="noopener">My Github</a> &bull; <a href="https://top.gg/servers/396117030375522307/join" target="_blank" rel="noopener">Discord Server</a></p>
+<p align="center"><a href="https://top.gg/bot/560893917839622158" target="_blank" rel="noopener">Top.gg Bot page</a> &bull; <a href="https://twitter.com/Electrocute4u" target="_blank" rel="noopener">Twitter Page</a> &bull; <a href="https://twitter.com/MilimBot" target="_blank" rel="noopener">My Github</a> &bull; <a href="https://top.gg/servers/396117030375522307/join" target="_blank" rel="noopener">Discord Server</a></p>
 <p align="center"><a href="https://discord.js.org/#/docs/main/stable/general/welcome" target="_blank" rel="noopener">Discord.js Documentation</a> &bull; <a href="https://www.javascript.com/" target="_blank" rel="noopener">Javascript Website</a></p>
-<p align="center"><a href="https://tsumikibot.tk" target="_blank" rel="noopener">Official Website</a></p>
+<p align="center"><a href="https://milimbot.com" target="_blank" rel="noopener">Official Website</a></p>
 
 ## [Table of contents](table-of-contents)
 
@@ -33,7 +31,7 @@ The perfect Anime Action Bot for your Discord server!
 <summary>"Click to expand the Table of Contents" </summary>
  
 - [About the bot](#about-the-discord-bot)
-- [Bot is based on](#who-the-discord-bot-are-based-on)
+- [Who is it based on?](#who-is-it-based-on)
 - [Features](#features)
 - [Mention System 3.0](#mention-system-30)
 - [F.A.Q](#faq)
@@ -51,12 +49,11 @@ It has various different commands, but the main attraction of the bot is its Act
 The bot is mostly anime-themed, but it can also be used by anyone, it doesn't have to be just for weebs. \
 What sets this bot out amongst countless other bots is its **[Mention System](#mention-system)**.
 
-## [Who the Discord bot are based on](#who-the-discord-bot-are-based-on)
-[Tsumiki Miniwa](https://acchikocchi.fandom.com/wiki/Tsumiki_Miniwa) is the main character from [Acchi Kocchi (Place to Place)](https://myanimelist.net/anime/12291/Acchi_Kocchi_TV).
+## [Who is it based on?](#who-is-it-based-on)
+[Milim Nava](https://tensura.fandom.com/wiki/Milim_Nava) is a support character from [Tensei shitara Slime Datta Ken (TenSura)](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken).
 
 Since the most kawaii theme right now is Anime related Discord bots, I decided to choose her as mine. \
-There is already a bot called [Tsumiki-bot](https://top.gg/bot/390347640438521856), but it seem to be outdated and possibly not being developed on anymore. \
-So I stepped up my game with a new bot on the Discord bot market, which is not related with [Tsumiki-bot](https://top.gg/bot/390347640438521856) features.
+She is also currently in season and I've barely seen any bots resolving around her. 
 
 ## [Features](#features)
 ### The bot currently has:
@@ -85,18 +82,22 @@ For the common developer or someone who don't really need it, this system is mor
 *Without having to worry about @pinging them* like most bots utilize nowadays \
 *Because we all have that one person who ALWAYS hate @mentions, right?* 
 
-<a><img src="https://i.imgur.com/4PeiuQk.jpg" style="width: 100%;" /></a>
+<a><img src="https://i.imgur.com/dghQVGx.gif" style="width: 100%;" /></a>
 
-With its powerful and advanced, yet enriching Mention System 3.0 it can be on par or even rival bigger bots with ease. \
+With its powerful and advanced, yet enriching `Mention System` it can be on par or even rival bigger bots with ease. \
 First it was just a tiny hobby project for me to toy around with, which was barely enough to put most bots off the chart. \
-Furthermore, developing it into V.2 enhanced it even a step further and it got even more powerful with its newely added global user support.
+Furthermore, developing it into V.2 enhanced it even a step further and it got even more powerful with its newely added global user support. \
 With the latest version, being 3.0 released, it now features even server role users support, which revolutionized it.
 
-**If this is not enough to satisfy the most average Discord user, I'll fall from grace, literally.**
+### If this is not enough to satisfy the most average Discord user, I'll fall from grace, literally.
+<details>
+<summary>"If you still dislike it... Here, watch me fall from grace" </summary>
+<a><img src="https://i.imgur.com/ZAN7xZl.gif" style="width: 100%;" /></a>
+</details>
 
-See below for everything the new and powerful **Mention System 3.0** recently released can do!
 
-There are several ways to find a user and use them in commands silently! \
+See below for everything the new and powerful `Mention System 3.0` recently released can do! \
+There are several ways to find a user and use them in commands silently!
 ### Finding a Discord user on your server:
 - Server nickname
 - Discord username (i.e Username or Username#1234) 
@@ -137,12 +138,12 @@ As for supporting it, any donations are welcome. Feel free to PM **Kuuko#0001** 
 ### How often is there updates?
 This is a hobby project and a learning ground for me since 2019, with continues updates almost weekly. However as of lately (2021), I've taken a step back and become less active in the project. But I am still around to patch bugs and at times dedicate myself fully to the project.
 
-### Does the Discord bot have a official website?
-You can find the official website for it **[here](https://tsumikibot.tk)**.
+### Where can I find the website for Milim?
+You can find the official website for it **[here](https://milimbot.com)**.
 
 ## [Useful links](#useful-links)
 - [Bot invite link](https://discord.com/oauth2/authorize?client_id=560893917839622158&scope=bot&permissions=201714880) 
-- [Issues](https://github.com/Electrocute4u/Tsumiki/issues) 
+- [Issues](https://github.com/Electrocute4u/Milim/issues) 
 - [Support server](https://discord.gg/REEZSj2Uj7) 
 - **Patreon:** -Coming soon-
 
