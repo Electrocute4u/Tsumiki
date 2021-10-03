@@ -85,8 +85,7 @@ For the common developer or someone who don't really need it, this system is mor
 <a><img src="https://i.imgur.com/dghQVGx.gif" style="width: 100%;" /></a>
 
 With its powerful and advanced, yet enriching `Mention System` it can be on par or even rival bigger bots with ease. \
-First it was just a tiny hobby project for me to toy around with, which was barely enough to put most bots off the chart. \
-Furthermore, developing it into V.2 enhanced it even a step further and it got even more powerful with its newely added global user support. \
+First it was just a tiny hobby project for me to toy around with, which was barely enough to put most bots off the chart. Furthermore, developing it into V.2 enhanced it even a step further and it got even more powerful with its newely added global user support. \
 With the latest version, being 3.0 released, it now features even server role users support, which revolutionized it.
 
 ### If this is not enough to satisfy the most average Discord user, I'll fall from grace, literally.
