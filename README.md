@@ -75,15 +75,20 @@ She is also currently in season and I've barely seen any bots resolving around h
 
 ## [Mention System 3.0](#mention-system-30)
 ### What is a Mention System?
-A Mention System is a system that will help find a user with various methods. \
-For the common developer or someone who don't really need it, this system is more or less just to allow a user ID or a @Mention.
+A Mention System is a system that will help find a user with various methods and with advanced algorithms. \
+For the common developer or someone who don't really need a fancy system, they more or less just use a `user ID` or a `@Mention` as their only options. \
+However, I decided to expand my horizon and follow the bigger fish and then improve it to go even further beyond the limits.
 
-*Silently find a global Discord or local Server user and use them in any command with this system.* \
-*Without having to worry about @pinging them* like most bots utilize nowadays \
-*Because we all have that one person who ALWAYS hate @mentions, right?* 
+### What are the benefits of this system?
+*You can silently find a global Discord or local Server user and then use them in any command with this system.* \
+*This is all without having to worry about `@pinging` them like most bots utilize nowadays.* \
+*Because we all have that one person who ALWAYS hate `@Mentions`, right?* \
+*And let's all be real, who would sit for 3 hours listening to the kid ranting that you pinged them over and over again in commands...* \
+*Because I don't and that's why this system came into the lights and because I hate being an nuisance to others if I can help it.*
 
 <a><img src="https://i.imgur.com/dghQVGx.gif" style="width: 100%;" /></a>
 
+### From a tiny hobby project to an advanced system
 With its powerful and advanced, yet enriching `Mention System` it can be on par or even rival bigger bots with ease. \
 First it was just a tiny hobby project for me to toy around with, which was barely enough to put most bots off the chart. Furthermore, developing it into V.2 enhanced it even a step further and it got even more powerful with its newely added global user support. \
 With the latest version, being 3.0 released, it now features even server role users support, which revolutionized it.
@@ -104,19 +109,22 @@ There are several ways to find a user and use them in commands silently!
 - User ID (I.e 209972381622468604)
 - Mention (I.e @Username)
 
-### [New] Find a user or multiple user(s) on your server with a role:
-Note: The user in the role mentioned/found would have to be cached beforehand! \
-This means that if no user has spoken in that server since last bot restart, it wouldn't return any user(s).
+### `[New]` Find a user or multiple user(s) on your server with a role:
+**Note:** The user in the role mentioned/found would have to be cached beforehand! \
+This means that if no user in that role has been cached yet, it will return as empty.
 - Role tag (i.e @CoolestGroup or <@&396819590266486784>)
 - Role ID (i.e 396819590266486784)
 - Role name (i.e Developer)
 
-### Finding a global user and using them in the future:
+### Finding a global user & use them later on:
 - User ID
 **Note:** Once the user is cached, they can easily be mentioned in other servers [Example](https://i.imgur.com/5D0lgIU.gif) with the following methods:
 - Discord username (i.e Username or Username#1234) 
 - User ID (I.e 209972381622468604)
 - Descriminator (I.e #1234 or 1234)
+
+### Caching and what it does:
+Once a Discord user is active (i.e sends a message) on a server and a channel the bot has access to, it will automatically cache that user and store the user until the next bot restart. This bot's mention system is using this cache by searching through it using advanced algorithms to find a specific user and to make sure that **8 out of 10** times it finds the correct user. There are also ways to manually cache users (mainly by tagging them with a `@mention`) or by using their `Discord ID` on any of the available commands using this system.
 
 ## [F.A.Q](#faq)
 *Here is a short FAQ with the most common questions one mostly asks about.*
