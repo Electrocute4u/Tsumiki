@@ -160,11 +160,8 @@ You can find the official website for it **[here](https://milimbot.com)**.
 
 ## [BotList Widgets](#botlist-widgets)
 
-### Top.gg \[[Link](https://top.gg/bot/560893917839622158)\]
-[![Top.gg](https://top.gg/api/widget/560893917839622158.svg)](https://top.gg/bot/560893917839622158)
-
-### Bots for Discord \[[Link](https://botsfordiscord.com/bot/560893917839622158)\]
-[![Bots for Discord](https://botsfordiscord.com/api/bot/560893917839622158/widget?theme=dark)](https://botsfordiscord.com/bots/560893917839622158)
+### Top.gg \[[Link](https://top.gg/bot/594448596355645440)\]
+[![Top.gg](https://top.gg/api/widget/594448596355645440.svg)](https://top.gg/bot/594448596355645440)
 
 
 ## [License](#license)
