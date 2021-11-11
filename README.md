@@ -155,7 +155,7 @@ You can find the official website for it **[here](https://milimbot.com)**.
 - **Patreon:** -Coming soon-
 
 ## Join the official Support server
-<p><a href="http://www.discord.gg/kJP8m9W"><img src="https://discordapp.com/api/guilds/396117030375522307/widget.png?style=banner2" alt="" width="342" height="81" /></a>
+<p><a href="http://www.discord.gg/2cbUzfRqkb"><img src="https://discordapp.com/api/guilds/896700102444458035/widget.png?style=banner2" alt="" width="342" height="81" /></a>
 </p>
 
 ## [BotList Widgets](#botlist-widgets)
