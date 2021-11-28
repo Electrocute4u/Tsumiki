@@ -1,5 +1,5 @@
-<a><img src="https://i.imgur.com/g7FqDm4.jpg" style="width: 100%;" /></a>
-<h1 align="center" size="30px">Milim</h1>
+<a><img src="https://i.imgur.com/wtIunV6.png" style="width: 100%;" /></a>
+<h1 align="center" size="30px">Tsumiki</h1>
 <h3 align="center">
 The perfect Anime Action Bot for your Discord server!
 </h3>
@@ -10,7 +10,7 @@ The perfect Anime Action Bot for your Discord server!
 
 <p align="center">
 <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/electrocute4u/tsumiki?style=social">
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/MilimBot?style=social">
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/BotTsumiki?style=social">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/electrocute4u?style=social">
 </p>
 
@@ -20,9 +20,8 @@ The perfect Anime Action Bot for your Discord server!
 <img alt="npm" src="https://img.shields.io/npm/v/mongoose?color=lightgreen&label=Mongoose&style=for-the-badge">
 </p>
 
-<p align="center"><a href="https://top.gg/bot/560893917839622158" target="_blank" rel="noopener">Top.gg Bot page</a> &bull; <a href="https://twitter.com/Electrocute4u" target="_blank" rel="noopener">Twitter Page</a> &bull; <a href="https://twitter.com/MilimBot" target="_blank" rel="noopener">My Github</a> &bull; <a href="https://top.gg/servers/396117030375522307/join" target="_blank" rel="noopener">Discord Server</a></p>
+<p align="center"><a href="https://top.gg/bot/560893917839622158" target="_blank" rel="noopener">Top.gg Bot page</a> &bull; <a href="https://twitter.com/Electrocute4u" target="_blank" rel="noopener">Twitter Page</a> &bull; <a href="https://twitter.com/BotTsumiki" target="_blank" rel="noopener">My Github</a> &bull; <a href="https://top.gg/servers/396117030375522307/join" target="_blank" rel="noopener">Discord Server</a></p>
 <p align="center"><a href="https://discord.js.org/#/docs/main/stable/general/welcome" target="_blank" rel="noopener">Discord.js Documentation</a> &bull; <a href="https://www.javascript.com/" target="_blank" rel="noopener">Javascript Website</a></p>
-<p align="center"><a href="https://milimbot.com" target="_blank" rel="noopener">Official Website</a></p>
 
 ## [Table of contents](table-of-contents)
 
@@ -50,10 +49,7 @@ The bot is mostly anime-themed, but it can also be used by anyone, it doesn't ha
 What sets this bot out amongst countless other bots is its **[Mention System](#mention-system)**.
 
 ## [Who is it based on?](#who-is-it-based-on)
-[Milim Nava](https://tensura.fandom.com/wiki/Milim_Nava) is a support character from [Tensei shitara Slime Datta Ken (TenSura)](https://myanimelist.net/anime/37430/Tensei_shitara_Slime_Datta_Ken).
-
-Since the most kawaii theme right now is Anime related Discord bots, I decided to choose her as mine. \
-She is also currently in season and I've barely seen any bots resolving around her. 
+[Tsumiki Miniwa](https://acchikocchi.fandom.com/wiki/Tsumiki_Miniwa) is a main character from [Acchi Kocchi](https://myanimelist.net/anime/12291/Acchi_Kocchi_TV).
 
 ## [Features](#features)
 ### The bot currently has:
@@ -86,7 +82,7 @@ However, I decided to expand my horizon and follow the bigger fish and then impr
 *And let's all be real, who would sit for 3 hours listening to the kid ranting that you pinged them over and over again in commands...* \
 *Because I don't and that's why this system came into the lights and because I hate being an nuisance to others if I can help it.*
 
-<a><img src="https://i.imgur.com/dghQVGx.gif" style="width: 100%;" /></a>
+<a><img src="https://i.imgur.com/4PeiuQk.jpg" style="width: 100%;" /></a>
 
 ### From a tiny hobby project to an advanced system
 With its powerful and advanced, yet enriching `Mention System` it can be on par or even rival bigger bots with ease. \
@@ -130,7 +126,7 @@ Once a Discord user is active (i.e sends a message) on a server and a channel th
 *Here is a short FAQ with the most common questions one mostly asks about.*
 
 ### Main purpose of the Discord bot
-Milim aims for the "best" action bot on the discord bot market. And its main purpose is to produce anime action commands and have the most powerful and advanced mention system there is.
+Tsumiki aims for the "best" action bot on the discord bot market. And its main purpose is to produce anime action commands and have the most powerful and advanced mention system there is.
 
 ### Unique about the Mention System?
 It allows a user to go beyond that of what most bots offers to them with mentioning. A Discord ID or @Mention is fine as is, but it felt like a pain after a while. Therefore I coded my own system that allows one to find global discord users with ID, local users with username, nickname, descrimnator and more.
@@ -145,23 +141,20 @@ As for supporting it, any donations are welcome. Feel free to PM **Kuuko#0001** 
 ### How often is there updates?
 This is a hobby project and a learning ground for me since 2019, with continues updates almost weekly. However as of lately (2021), I've taken a step back and become less active in the project. But I am still around to patch bugs and at times dedicate myself fully to the project.
 
-### Where can I find the website for Milim?
-You can find the official website for it **[here](https://milimbot.com)**.
-
 ## [Useful links](#useful-links)
 - [Bot invite link](https://discord.com/oauth2/authorize?client_id=560893917839622158&scope=bot&permissions=201714880) 
-- [Issues](https://github.com/Electrocute4u/Milim/issues) 
+- [Issues](https://github.com/Electrocute4u/Tsumiki/issues) 
 - [Support server](https://discord.gg/REEZSj2Uj7) 
 - **Patreon:** -Coming soon-
 
 ## Join the official Support server
-<p><a href="http://www.discord.gg/2cbUzfRqkb"><img src="https://discordapp.com/api/guilds/896700102444458035/widget.png?style=banner2" alt="" width="342" height="81" /></a>
+<p><a href="http://www.discord.gg/2cbUzfRqkb"><img src="https://discordapp.com/api/guilds/396117030375522307/widget.png?style=banner2" alt="" width="342" height="81" /></a>
 </p>
 
 ## [BotList Widgets](#botlist-widgets)
 
-### Top.gg \[[Link](https://top.gg/bot/594448596355645440)\]
-[![Top.gg](https://top.gg/api/widget/594448596355645440.svg)](https://top.gg/bot/594448596355645440)
+### Top.gg \[[Link](https://top.gg/bot/560893917839622158)\]
+[![Top.gg](https://top.gg/api/widget/560893917839622158.svg)](https://top.gg/bot/560893917839622158)
 
 
 ## [License](#license)
